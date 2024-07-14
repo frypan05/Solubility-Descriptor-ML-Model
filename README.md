@@ -19,5 +19,8 @@ Model Performance:
 -
 ![image](https://github.com/user-attachments/assets/6d0c64e8-e86c-4ec4-9076-1ee631b4ba40)
 
+LR and RF Comparison:
+-
+![image](https://github.com/user-attachments/assets/52893635-e7ab-4cfa-af9a-16996ae869e8)
 
 
